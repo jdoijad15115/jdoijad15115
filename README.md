@@ -40,11 +40,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavidoijad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-kappa-seven.vercel.app/api?username=janhavidoijad&show_icons=true&theme=tokyonight" alt="Janhavi's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavidoijad&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=janhavidoijad&theme=tokyonight" alt="Janhavi's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-kappa-seven.vercel.app/api/top-langs/?username=janhavidoijad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
